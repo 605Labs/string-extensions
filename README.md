@@ -1,2 +1,3 @@
-# string-extensions
+# 605Labs.Extensions.String
+
 .NET string extensions
